@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>718</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <%- include("partials/header") %>
+
+    <div class="section flexCol">
+        <div class="cardContainer2 flexRow">
+          <% cars.forEach((car) => { %>
+          <div class="card2 flexCol">
+            <div class="line2"></div>
+            <img src="<%= car.img %>" alt="" class="carImg2 active" id="img1">
+            <img src="<%= car.img2 %>" alt="" class="carImg2 inactive" id="img2">
+            <h1 class="cardTitle2"><%= car.title %></h1>
+            <h1 class="cardText">Power: <%= car.power %></h1>
+            <h1 class="cardText">Acceleration: <%= car.acceleration %></h1>
+            <h1 class="cardText">Speed: <%= car.speed %></h1>
+          </div>
+          <% }) %>
+        </div>
+      </div>
+      
+    <script src="script.js"></script>
+  </body>
+</html>

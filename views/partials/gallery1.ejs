@@ -1,0 +1,33 @@
+<div class="section3 flexCol fit">
+  <h1 class="title2">gallery</h1>
+
+  <div class="gallery flexCol">
+    <div class="line3"></div>
+
+    <div class="galleryContainer flexRow">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUvtQmJ-4s_zPV1crfU7W2Hy6s5qRgof9GBA&s" alt="">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMs5lSEkkFfVZGs1QHUVsKDM2yyle3Kf5cA&s" alt="">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNBceK4kSTCKnAtHHPN2xk15bcy9UR7Jxjug&s" alt="">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-89rOIrwa1HxLn9XqCkQJmDQEhFxrcjFq9A&s" alt="">
+      <% imagesArr.forEach(function(image) { %>
+      <img src="<%= image %>" alt="" class="carImg galleryIMG" />
+      <% }); %>
+    </div>
+  </div>
+
+  <div class="formContainer flexCol">
+    <h1 class="formTitle"> Add new photo to gallery </h1>
+    <form action="/gallery" method="post" id="form" class="flexCol">
+      <input
+        type="text"
+        id="input"
+        name="input"
+        placeholder="Type URL"
+        class="input"
+        required
+      />
+
+      <input type="submit" value="Add photo" class="button2" />
+    </form>
+  </div>
+</div>

@@ -1,0 +1,130 @@
+[
+    {
+        "img": "/porsche/718/cayman/side.png",
+        "img2": "/porsche/718/cayman/front.png",
+        "title": "Cayman",
+        "power": "300 PS",
+        "acceleration": "5.1 s",
+        "speed": "275 km/h"
+    },
+    {
+        "img": "/porsche/718/caymanStyleEdition/side.png",
+        "img2": "/porsche/718/caymanStyleEdition/front.png",
+        "title": "Cayman Style Edition",
+        "power": "300 PS",
+        "acceleration": "5.1 s",
+        "speed": "275 km/h"
+    },
+    {
+        "img": "/porsche/718/caymanS/side.png",
+        "img2": "/porsche/718/caymanS/front.png",
+        "title": "Cayman S",
+        "power": "350 PS",
+        "acceleration": "4.6 s",
+        "speed": "285 km/h"
+    },
+    {
+        "img": "/porsche/718/caymanGTS4.0/side.png",
+        "img2": "/porsche/718/caymanGTS4.0/front.png",
+        "title": "Cayman GTS 4.0",
+        "power": "400 PS",
+        "acceleration": "4.5 s",
+        "speed": "293 km/h"
+    },
+    {
+        "img": "/porsche/911/911carrera/side.png",
+        "img2": "/porsche/911/911carrera/front.png",
+        "title": "911 Carrera",
+        "power": "394 PS",
+        "acceleration": "4.1 s",
+        "speed": "294 km/h"
+    },
+    {
+        "img": "/porsche/911/911carreraGTS/side.png",
+        "img2": "/porsche/911/911carreraGTS/front.png",
+        "title": "911 Carrera GTS",
+        "power": "541 PS",
+        "acceleration": "3.0 s",
+        "speed": "312 km/h"
+    },
+    {
+        "img": "/porsche/911/911GT3RS/side.png",
+        "img2": "/porsche/911/911GT3RS/front.png",
+        "title": "911 GT3 RS",
+        "power": "525 PS",
+        "acceleration": "3.2 s",
+        "speed": "296 km/h"
+    },
+    {
+        "img": "/porsche/911/911Turbo50Years/side.png",
+        "img2": "/porsche/911/911Turbo50Years/front.png",
+        "title": "911 Turbo 50 Years",
+        "power": "650 PS",
+        "acceleration": "2.7 s",
+        "speed": "330 km/h"
+    },
+    {
+        "img": "/porsche/panamera/panamera/side.png",
+        "img2": "/porsche/panamera/panamera/front.png",
+        "title": "Panamera",
+        "power": "353 PS",
+        "acceleration": "5.3 s",
+        "speed": "272 km/h"
+    },
+    {
+        "img": "/porsche/panamera/panamera4/side.png",
+        "img2": "/porsche/panamera/panamera4/front.png",
+        "title": "Panamera 4",
+        "power": "353 PS",
+        "acceleration": "5.0 s",
+        "speed": "270 km/h"
+    },
+    {
+        "img": "/porsche/panamera/panameraGTS/side.png",
+        "img2": "/porsche/panamera/panameraGTS/front.png",
+        "title": "Panamera GTS",
+        "power": "500 PS",
+        "acceleration": "3.8 s",
+        "speed": "302 km/h"
+    },
+    {
+        "img": "/porsche/panamera/panameraTurboSE-Hybrid/side.png",
+        "img2": "/porsche/panamera/panameraTurboSE-Hybrid/front.png",
+        "title": "Panamera Turbo S E-Hybrid",
+        "power": "782 PS",
+        "acceleration": "2.9 s",
+        "speed": "325 km/h"
+    },
+    {
+        "img": "/porsche/taycan/taycan/side.png",
+        "img2": "/porsche/taycan/taycan/front.png",
+        "title": "Taycan",
+        "power": "408 PS",
+        "acceleration": "4.8 s",
+        "speed": "592 km/h"
+    },
+    {
+        "img": "/porsche/taycan/taycan4s/side.png",
+        "img2": "/porsche/taycan/taycan4s/front.png",
+        "title": "Taycan 4S",
+        "power": "544 PS",
+        "acceleration": "3.7 s",
+        "speed": "561 km/h"
+    },
+    {
+        "img": "/porsche/taycan/taycanTurboGT/side.png",
+        "img2": "/porsche/taycan/taycanTurboGT/front.png",
+        "title": "Taycan Turbo GT",
+        "power": "1034 PS",
+        "acceleration": "2.3 s",
+        "speed": "553 km/h"
+    },
+    {
+        "img": "/porsche/taycan/taycanTurboSCrossTurismo/side.png",
+        "img2": "/porsche/taycan/taycanTurboSCrossTurismo/front.png",
+        "title": "Taycan Turbo S Cross Turismo",
+        "power": "952 PS",
+        "acceleration": "2.5 s",
+        "speed": "600 km/h"
+    }
+]
